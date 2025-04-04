@@ -1,0 +1,9 @@
+# ignorar los .txt en la carpeta raiz
+/.*txt
+
+# ignorar todo lo que haya en logs/ y pre_log/ sin eliminarlas
+logs/**
+!logs/.gitkeep
+
+pre_log/**
+!pre_log/.gitkeep
