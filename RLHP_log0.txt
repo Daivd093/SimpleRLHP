@@ -1,0 +1,143 @@
+2024-12-08 20:36:50,554 - main - INFO - 
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+2024-12-08 20:36:51,155 - main - INFO - 
+Pretraining in progress
+-------------------------------------------------------
+2024-12-08 20:36:51,155 - main - INFO - Pretraining with Particle Based Entropy
+RL Algorithm = SAC, a = 0.5, k = 5
+5 Trajectories
+2024-12-08 20:36:51,212 - OpenGL.acceleratesupport - INFO - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+2024-12-08 20:40:10,936 - main - INFO - 
+Pretraining Done!
+--------------------
+2024-12-08 20:40:12,692 - EnvNNwrapper - INFO - -------------------------------------------------------
+Learning in progress Pretrain
+-------------------------------------------------------
+2024-12-08 20:40:12,699 - FuzzyEnvironment - INFO - Entre 0 y 1 se prefiere la segunda, de forma débil
+2024-12-08 20:40:12,703 - FuzzyEnvironment - INFO - Para wp=0.8880302135110483 y dt=4.555322760878148: FuzzyWeight = 0.7998002329297005
+2024-12-08 20:40:12,703 - EnvNNwrapper - INFO - Las consultas de la sesión Pretrain serán: q0=[tr_0,tr_1]
+2024-12-08 20:40:12,703 - EnvNNwrapper - INFO - La respuesta correctas es: 0.8880302135110483
+2024-12-08 20:40:12,710 - FuzzyEnvironment - INFO - Entre 0 y 2 se prefiere la segunda, fuertemente
+2024-12-08 20:40:12,712 - FuzzyEnvironment - INFO - Para wp=1.0 y dt=7.101349616492611: FuzzyWeight = 0.4805588827745506
+2024-12-08 20:40:12,712 - EnvNNwrapper - INFO - Las consultas de la sesión Pretrain serán: q1=[tr_0,tr_2]
+2024-12-08 20:40:12,713 - EnvNNwrapper - INFO - La respuesta correctas es: 1.0
+2024-12-08 20:40:12,719 - FuzzyEnvironment - INFO - Entre 0 y 3 se prefiere la primera, de forma débil
+2024-12-08 20:40:12,722 - FuzzyEnvironment - INFO - Para wp=0.21941391769124968 y dt=2.591784728403259: FuzzyWeight = 0.6470450284475919
+2024-12-08 20:40:12,722 - EnvNNwrapper - INFO - Las consultas de la sesión Pretrain serán: q2=[tr_0,tr_3]
+2024-12-08 20:40:12,722 - EnvNNwrapper - INFO - La respuesta correctas es: 0.21941391769124968
+2024-12-08 20:40:12,729 - FuzzyEnvironment - INFO - Entre 0 y 4 se prefiere la primera, de forma débil
+2024-12-08 20:40:12,731 - FuzzyEnvironment - INFO - Para wp=0.21425329642355379 y dt=4.7378140232857895: FuzzyWeight = 0.3500087793567048
+2024-12-08 20:40:12,731 - EnvNNwrapper - INFO - Las consultas de la sesión Pretrain serán: q3=[tr_0,tr_4]
+2024-12-08 20:40:12,731 - EnvNNwrapper - INFO - La respuesta correctas es: 0.21425329642355379
+2024-12-08 20:40:12,738 - FuzzyEnvironment - INFO - Entre 0 y 5 se prefiere la primera, de forma débil
+2024-12-08 20:40:12,740 - FuzzyEnvironment - INFO - Para wp=0.21425329642355379 y dt=5.445331031767927: FuzzyWeight = 0.3500087793567048
+2024-12-08 20:40:12,740 - EnvNNwrapper - INFO - Las consultas de la sesión Pretrain serán: q4=[tr_0,tr_5]
+2024-12-08 20:40:12,740 - EnvNNwrapper - INFO - La respuesta correctas es: 0.21425329642355379
+2024-12-08 20:40:12,747 - FuzzyEnvironment - INFO - Entre 0 y 6 se prefiere la primera, de forma débil
+2024-12-08 20:40:12,750 - FuzzyEnvironment - INFO - Para wp=0.21425329642355379 y dt=4.953271298609613: FuzzyWeight = 0.3500087793567048
+2024-12-08 20:40:12,750 - EnvNNwrapper - INFO - Las consultas de la sesión Pretrain serán: q5=[tr_0,tr_6]
+2024-12-08 20:40:12,750 - EnvNNwrapper - INFO - La respuesta correctas es: 0.21425329642355379
+2024-12-08 20:40:12,756 - FuzzyEnvironment - INFO - Entre 1 y 2 se prefiere la segunda, fuertemente
+2024-12-08 20:40:12,759 - FuzzyEnvironment - INFO - Para wp=1.0 y dt=2.2380795503945436: FuzzyWeight = 0.9129643663426248
+2024-12-08 20:40:12,759 - EnvNNwrapper - INFO - Las consultas de la sesión Pretrain serán: q6=[tr_1,tr_2]
+2024-12-08 20:40:12,759 - EnvNNwrapper - INFO - La respuesta correctas es: 1.0
+2024-12-08 20:40:12,766 - FuzzyEnvironment - INFO - Entre 1 y 3 se prefiere la primera, de forma débil
+2024-12-08 20:40:12,768 - FuzzyEnvironment - INFO - Para wp=0.11196978648895178 y dt=6.545004626821681: FuzzyWeight = 0.65682572056709
+2024-12-08 20:40:12,768 - EnvNNwrapper - INFO - Las consultas de la sesión Pretrain serán: q7=[tr_1,tr_3]
+2024-12-08 20:40:12,768 - EnvNNwrapper - INFO - La respuesta correctas es: 0.11196978648895178
+2024-12-08 20:40:12,775 - FuzzyEnvironment - INFO - Entre 1 y 4 se prefiere la primera, de forma débil
+2024-12-08 20:40:12,778 - FuzzyEnvironment - INFO - Para wp=0.11196978648895178 y dt=7.407639313157809: FuzzyWeight = 0.48005123871252553
+2024-12-08 20:40:12,778 - EnvNNwrapper - INFO - Las consultas de la sesión Pretrain serán: q8=[tr_1,tr_4]
+2024-12-08 20:40:12,778 - EnvNNwrapper - INFO - La respuesta correctas es: 0.11196978648895178
+2024-12-08 20:40:12,784 - FuzzyEnvironment - INFO - Entre 1 y 5 se prefiere la primera, de forma débil
+2024-12-08 20:40:12,787 - FuzzyEnvironment - INFO - Para wp=0.11196978648895178 y dt=1.9727221815105158: FuzzyWeight = 0.8229568963296116
+2024-12-08 20:40:12,787 - EnvNNwrapper - INFO - Las consultas de la sesión Pretrain serán: q9=[tr_1,tr_5]
+2024-12-08 20:40:12,787 - EnvNNwrapper - INFO - La respuesta correctas es: 0.11196978648895178
+2024-12-08 20:40:12,793 - FuzzyEnvironment - INFO - Entre 1 y 6 se prefiere la primera, de forma débil
+2024-12-08 20:40:12,796 - FuzzyEnvironment - INFO - Para wp=0.11196978648895178 y dt=3.113618161622828: FuzzyWeight = 0.7960414477383104
+2024-12-08 20:40:12,796 - EnvNNwrapper - INFO - Las consultas de la sesión Pretrain serán: q10=[tr_1,tr_6]
+2024-12-08 20:40:12,796 - EnvNNwrapper - INFO - La respuesta correctas es: 0.11196978648895178
+2024-12-08 20:40:12,803 - FuzzyEnvironment - INFO - Entre 2 y 3 se prefiere la primera, fuertemente
+2024-12-08 20:40:12,805 - FuzzyEnvironment - INFO - Para wp=0.0 y dt=7.514951431476606: FuzzyWeight = 0.48003341409174555
+2024-12-08 20:40:12,805 - EnvNNwrapper - INFO - Las consultas de la sesión Pretrain serán: q11=[tr_2,tr_3]
+2024-12-08 20:40:12,805 - EnvNNwrapper - INFO - La respuesta correctas es: 0.0
+2024-12-08 20:40:12,812 - FuzzyEnvironment - INFO - Entre 2 y 4 se prefiere la primera, fuertemente
+2024-12-08 20:40:12,814 - FuzzyEnvironment - INFO - Para wp=0.0 y dt=5.752910474873905: FuzzyWeight = 0.7994936713416554
+2024-12-08 20:40:12,814 - EnvNNwrapper - INFO - Las consultas de la sesión Pretrain serán: q12=[tr_2,tr_4]
+2024-12-08 20:40:12,814 - EnvNNwrapper - INFO - La respuesta correctas es: 0.0
+2024-12-08 20:40:12,821 - FuzzyEnvironment - INFO - Entre 2 y 5 se prefiere la primera, fuertemente
+2024-12-08 20:40:12,824 - FuzzyEnvironment - INFO - Para wp=0.0 y dt=3.72850589031816: FuzzyWeight = 0.8079639171595782
+2024-12-08 20:40:12,824 - EnvNNwrapper - INFO - Las consultas de la sesión Pretrain serán: q13=[tr_2,tr_5]
+2024-12-08 20:40:12,824 - EnvNNwrapper - INFO - La respuesta correctas es: 0.0
+2024-12-08 20:40:12,830 - FuzzyEnvironment - INFO - Entre 2 y 6 se prefiere la primera, fuertemente
+2024-12-08 20:40:12,833 - FuzzyEnvironment - INFO - Para wp=0.0 y dt=6.126841511192071: FuzzyWeight = 0.7986400887840202
+2024-12-08 20:40:12,833 - EnvNNwrapper - INFO - Las consultas de la sesión Pretrain serán: q14=[tr_2,tr_6]
+2024-12-08 20:40:12,833 - EnvNNwrapper - INFO - La respuesta correctas es: 0.0
+2024-12-08 20:40:12,839 - FuzzyEnvironment - INFO - Entre 3 y 4 se prefiere la primera, de forma débil
+2024-12-08 20:40:12,842 - FuzzyEnvironment - INFO - Para wp=0.3120158160009452 y dt=4.550588386188878: FuzzyWeight = 0.3500005587248402
+2024-12-08 20:40:12,842 - EnvNNwrapper - INFO - Las consultas de la sesión Pretrain serán: q15=[tr_3,tr_4]
+2024-12-08 20:40:12,842 - EnvNNwrapper - INFO - La respuesta correctas es: 0.3120158160009452
+2024-12-08 20:40:12,848 - FuzzyEnvironment - INFO - Entre 3 y 5 se prefiere la primera, de forma débil
+2024-12-08 20:40:12,851 - FuzzyEnvironment - INFO - Para wp=0.3120158160009452 y dt=3.170906118839426: FuzzyWeight = 0.5950425861105667
+2024-12-08 20:40:12,851 - EnvNNwrapper - INFO - Las consultas de la sesión Pretrain serán: q16=[tr_3,tr_5]
+2024-12-08 20:40:12,851 - EnvNNwrapper - INFO - La respuesta correctas es: 0.3120158160009452
+2024-12-08 20:40:12,858 - FuzzyEnvironment - INFO - Entre 3 y 6 se prefiere la primera, de forma débil
+2024-12-08 20:40:12,860 - FuzzyEnvironment - INFO - Para wp=0.3120158160009452 y dt=2.3703967493177647: FuzzyWeight = 0.596934489841627
+2024-12-08 20:40:12,860 - EnvNNwrapper - INFO - Las consultas de la sesión Pretrain serán: q17=[tr_3,tr_6]
+2024-12-08 20:40:12,860 - EnvNNwrapper - INFO - La respuesta correctas es: 0.3120158160009452
+2024-12-08 20:40:12,867 - FuzzyEnvironment - INFO - Entre 4 y 5 se prefiere la primera, de forma débil
+2024-12-08 20:40:12,869 - FuzzyEnvironment - INFO - Para wp=0.3886071992381012 y dt=4.896837594014585: FuzzyWeight = 0.3500001676918164
+2024-12-08 20:40:12,869 - EnvNNwrapper - INFO - Las consultas de la sesión Pretrain serán: q18=[tr_4,tr_5]
+2024-12-08 20:40:12,869 - EnvNNwrapper - INFO - La respuesta correctas es: 0.3886071992381012
+2024-12-08 20:40:12,876 - FuzzyEnvironment - INFO - Entre 4 y 6 se prefiere la segunda, de forma débil
+2024-12-08 20:40:12,878 - FuzzyEnvironment - INFO - Para wp=0.6205328525793494 y dt=3.1381488021202184: FuzzyWeight = 0.43742119609296526
+2024-12-08 20:40:12,878 - EnvNNwrapper - INFO - Las consultas de la sesión Pretrain serán: q19=[tr_4,tr_6]
+2024-12-08 20:40:12,878 - EnvNNwrapper - INFO - La respuesta correctas es: 0.6205328525793494
+2024-12-08 20:40:12,885 - FuzzyEnvironment - INFO - Entre 5 y 6 se prefiere la segunda, de forma débil
+2024-12-08 20:40:12,888 - FuzzyEnvironment - INFO - Para wp=0.6205328525793494 y dt=4.102126174407275: FuzzyWeight = 0.3500001853093594
+2024-12-08 20:40:12,888 - EnvNNwrapper - INFO - Las consultas de la sesión Pretrain serán: q20=[tr_5,tr_6]
+2024-12-08 20:40:12,888 - EnvNNwrapper - INFO - La respuesta correctas es: 0.6205328525793494
+2024-12-08 20:40:13,980 - EnvNNwrapper - INFO - Epoch [1/16], Loss: 0.7987
+2024-12-08 20:40:14,214 - EnvNNwrapper - INFO - Validation Loss: 0.7010
+2024-12-08 20:40:15,442 - EnvNNwrapper - INFO - Epoch [2/16], Loss: 0.6659
+2024-12-08 20:40:15,691 - EnvNNwrapper - INFO - Validation Loss: 0.8958
+2024-12-08 20:40:16,832 - EnvNNwrapper - INFO - Epoch [3/16], Loss: 0.6558
+2024-12-08 20:40:17,092 - EnvNNwrapper - INFO - Validation Loss: 0.6924
+2024-12-08 20:40:18,241 - EnvNNwrapper - INFO - Epoch [4/16], Loss: 0.5030
+2024-12-08 20:40:18,492 - EnvNNwrapper - INFO - Validation Loss: 1.1335
+2024-12-08 20:40:19,652 - EnvNNwrapper - INFO - Epoch [5/16], Loss: 0.5956
+2024-12-08 20:40:19,905 - EnvNNwrapper - INFO - Validation Loss: 0.6553
+2024-12-08 20:40:21,148 - EnvNNwrapper - INFO - Epoch [6/16], Loss: 0.5312
+2024-12-08 20:40:21,411 - EnvNNwrapper - INFO - Validation Loss: 0.6056
+2024-12-08 20:40:22,570 - EnvNNwrapper - INFO - Epoch [7/16], Loss: 0.5758
+2024-12-08 20:40:22,828 - EnvNNwrapper - INFO - Validation Loss: 0.7749
+2024-12-08 20:40:23,986 - EnvNNwrapper - INFO - Epoch [8/16], Loss: 0.4637
+2024-12-08 20:40:24,237 - EnvNNwrapper - INFO - Validation Loss: 0.6091
+2024-12-08 20:40:25,411 - EnvNNwrapper - INFO - Epoch [9/16], Loss: 0.5684
+2024-12-08 20:40:25,737 - EnvNNwrapper - INFO - Validation Loss: 0.7049
+2024-12-08 20:40:26,910 - EnvNNwrapper - INFO - Epoch [10/16], Loss: 0.6247
+2024-12-08 20:40:27,165 - EnvNNwrapper - INFO - Validation Loss: 0.4816
+2024-12-08 20:40:28,341 - EnvNNwrapper - INFO - Epoch [11/16], Loss: 0.5597
+2024-12-08 20:40:28,594 - EnvNNwrapper - INFO - Validation Loss: 0.5859
+2024-12-08 20:40:29,772 - EnvNNwrapper - INFO - Epoch [12/16], Loss: 0.5042
+2024-12-08 20:40:30,023 - EnvNNwrapper - INFO - Validation Loss: 0.5590
+2024-12-08 20:40:31,268 - EnvNNwrapper - INFO - Epoch [13/16], Loss: 0.4718
+2024-12-08 20:40:31,521 - EnvNNwrapper - INFO - Validation Loss: 0.7519
+2024-12-08 20:40:32,695 - EnvNNwrapper - INFO - Epoch [14/16], Loss: 0.4581
+2024-12-08 20:40:32,950 - EnvNNwrapper - INFO - Validation Loss: 0.7622
+2024-12-08 20:40:34,126 - EnvNNwrapper - INFO - Epoch [15/16], Loss: 0.5003
+2024-12-08 20:40:34,386 - EnvNNwrapper - INFO - Validation Loss: 0.7331
+2024-12-08 20:40:35,546 - EnvNNwrapper - INFO - Epoch [16/16], Loss: 0.4820
+2024-12-08 20:40:35,797 - EnvNNwrapper - INFO - Validation Loss: 0.6319
+2024-12-08 20:40:36,699 - main - INFO - 
+Learning from Petraining Preferences Done!
+--------------------
+2024-12-08 20:40:36,747 - main - INFO - 
+ Training Session 0/3:
+--------------------
+2024-12-08 20:40:36,748 - main - INFO - 
+Training in progress 0
+-------------------------------------------------------
+2024-12-08 20:48:24,553 - OpenGL.platform.baseplatform - INFO - Platform import failed (likely during shutdown)
+2024-12-08 20:48:24,554 - OpenGL.platform.baseplatform - INFO - Platform import failed (likely during shutdown)
