@@ -58,19 +58,19 @@ Este proyecto incluye distintas estrategias para representar las preferencias hu
 
 - Preferencias binarias
     Basadas en:
-    Deep reinforcement learning from human preferences (https://arxiv.org/abs/1706.03741)
+    [Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741)
     Paul Christiano, Jan Leike, Tom B. Brown, Miljan Martic, Shane Legg, Dario Amodei
 
 - Preferencias débiles
     Basadas en:
-    Weak Human Preference Supervision for Deep Reinforcement Learning (https://ieeexplore.ieee.org/abstract/document/9448304)
+    [Weak Human Preference Supervision for Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9448304)
     Zehong Cao, KaiChiu Wong, Chin-Teng Lin
 
 - BPref (Benchmark de preferencias)
     Basado en:
-    B-Pref: Benchmarking Preference-Based Reinforcement Learning (https://openreview.net/forum?id=ps95-mkHF_)
+    [B-Pref: Benchmarking Preference-Based Reinforcement Learning](https://openreview.net/forum?id=ps95-mkHF_)
     Kimin Lee, Laura Smith, Anca Dragan, Pieter Abbeel
-    ⚠️ Aún en desarrollo, puede requerir ajustes.
+    *Aún en desarrollo, puede requerir ajustes.*
 
 - Preferencias difusas
     Una modificación personal sobre las preferencias débiles, aún experimental.
