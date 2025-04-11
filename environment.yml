@@ -1,4 +1,4 @@
-name: RLHP_mano
+name: simple_rlhp
 channels:
   - conda-forge
   - defaults
