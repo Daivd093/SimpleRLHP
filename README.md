@@ -2,7 +2,6 @@
 
 Implementación secuencial y simplificada de un algoritmo RLHP (Reinforcement Learning from Human Preferences). Este proyecto es una prueba de concepto enfocada en la comprensión del flujo de entrenamiento y retroalimentación por preferencias, sin optimización de concurrencia ni rendimiento.
 
----
 
 ## Características
 
@@ -11,13 +10,13 @@ Implementación secuencial y simplificada de un algoritmo RLHP (Reinforcement Le
 - Basado en entornos modificados tipo Gymnasium (`Ant-v4`).
 - Código educativo y modificable para explorar ideas de aprendizaje por refuerzo basado en preferencias (PBRL).
 
----
 
 ## Configuración del entorno Conda
 
 Para reproducir el entorno de desarrollo:
 
-```conda env create -f environment.yml
+```
+conda env create -f environment.yml
 conda activate simple_rlhp
 ```
 
